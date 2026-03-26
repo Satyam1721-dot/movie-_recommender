@@ -2,7 +2,9 @@
 
 ## 🔹 Overview
 A content-based movie recommender system that suggests movies based on similarity.
-
+## 🔹 LIVE DEMO
+[recommend_movie](https://movie-recommendergit-q63vvq4kjk2m6mdbadwfbv.streamlit.app/)
+     
 ## 🔹 Tech Stack
 - Python
 - Pandas
